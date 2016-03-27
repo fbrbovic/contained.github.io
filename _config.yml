@@ -8,9 +8,9 @@ output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 topnav_title: Contained
 # this appears on the top navigation bar next to the home button
-site_title: Contained Web Platform
-# logo used for the navigation image
 nav_logo_image: /images/logo600x600_white_32x32.png
+# logo used for the navigation image
+site_title: Contained - Modular Development Web Platform Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 company_name: Contained
 # this appears in the footer
