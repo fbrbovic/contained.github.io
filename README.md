@@ -3,7 +3,7 @@ Documentation website for Contained Project located at contained.github.io
 
 # LICENSE
 
-Copyright 2016 Copyright Faruk Brbovic and the "Contained" contributors
+Copyright 2016 Faruk Brbovic and the "Contained" contributors
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
